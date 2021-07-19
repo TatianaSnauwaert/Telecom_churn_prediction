@@ -9,7 +9,7 @@ The ROC_AUC metric on the test set had to be no more than **0.88**.
 
 - The project's jupyter notebook (Telecom_churn_prediction.ipynb);
 - A pdf format of the notebook (Telecom_churn_prediction.pdf);
-- Input data (contract.csv, internet.csv, personal.csv, phone.csv);
+- Input data (final_provider folder contains: contract.csv, internet.csv, personal.csv, phone.csv);
 - Project description from Practicum (final_project_description.pdf).
 
 We have completed the following steps in this project:
