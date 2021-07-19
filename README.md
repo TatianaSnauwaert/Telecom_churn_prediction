@@ -70,4 +70,5 @@ The test score of our final chosen model is 45.65% higher than that of the Dummy
 **The LGBM model** has shown the best results (**test ROC_AUC of 0.92**) in terms of quality. The target metric of 0.88 or higher has been reached.
 
 **Logbook**
+
 The logbook of this project can be found [here](https://docs.google.com/spreadsheets/d/1SrGdReexaSEomJGS6yR6cRwJtHA_XqpprnLaE7B6Ayg/edit#gid=124322816) (Final Project tab). Total time spent on the project: 10.5 hours with a daily average of 1.31 hours working for 8 days.
